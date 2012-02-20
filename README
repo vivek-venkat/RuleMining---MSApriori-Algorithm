@@ -1,0 +1,2 @@
+Implementation of the MSApriori Algorithm (A modification of Apriori Algorithm with multiple minimum supports.)
+Code in Python. Inlcluded Data Transaction File and Parameter file indicating individual minimum supports.
